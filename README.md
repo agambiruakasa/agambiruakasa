@@ -34,7 +34,7 @@ there are a few things i keep returning to, like familiar paths i somehow never 
   <a href="https://letterboxd.com/ayemspiderman/film/12-angry-men">
     <img src="./assets/movies/12-angry-men.jpg" width="120" alt="12 Angry Men">
   </a>
-  <a href="https://letterboxd.com/ayemspiderman/film/monster-2023/1">
+  <a href="https://letterboxd.com/ayemspiderman/film/monster-2023">
     <img src="./assets/movies/monster.jpg" width="120" alt="Monster">
   </a>
   <a href="https://letterboxd.com/ayemspiderman/film/aftersun">
