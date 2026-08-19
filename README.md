@@ -67,7 +67,7 @@ there are a few things i keep returning to, like familiar paths i somehow never 
 *currently reading*
 
 <p align="left">
-  <a>
+  <a href="https://literal.club/book/ahmad-tohari-ronggeng-dukuh-paruk-jq8oq">
     <img src="./assets/books/ronggeng-dukuh-paruk.jpg" width="120" alt="Ronggeng Dukuh Paruk">
   </a>
 </p>
@@ -75,7 +75,7 @@ there are a few things i keep returning to, like familiar paths i somehow never 
 *last read*
 
 <p align="left">
-  <a>
+  <a href="https://literal.club/book/malice-hluby">
     <img src="./assets/books/malice.jpg" width="120" alt="Last Read">
   </a>
 </p>
@@ -87,11 +87,11 @@ i suppose thats the closest thing to an introduction i can give. im here collect
 so if you dont mind a little wandering, a little quiet, and the occasional nonsense appearing on your timeline, then hello. **im glad youre here :)**
 
 <p align="left">
-  <a href="https://medium.com/@agambiruakasa">
-    <img src="https://cdn.simpleicons.org/medium" width="50" alt="Medium">
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/theridleeys">
     <img src="https://cdn.simpleicons.org/x" width="50" alt="X">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@agambiruakasa">
+    <img src="https://cdn.simpleicons.org/medium" width="50" alt="Medium">
   </a>
 </p>
